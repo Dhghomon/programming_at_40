@@ -43,6 +43,9 @@ The period from the 90s to the 2000s involved no programming whatsoever. Two thi
 
 >Ultima VII was perhaps the first game I ever played where it seemed clear that the world did not exist merely to serve me as a game player.  The store owners did NOT keep their stores open 24 hours a day for my benefit.  If they were at dinner or asleep, I was out of luck. If I invaded someone's house, they yelled at me.  If I broke all their jars and looted the (mostly useless) stuff inside of them, the jars did not respawn when I left the house and came back in - they were broken for the rest of the game.  It felt real in a strange way.  Goofy as it may sound, it's like there was a world I was visiting.
 
+![](Ultima_7.jpg#thumbnail)
+
+
 I had and still do have the same feel when I play Ultima 7: the world is so packed with detail that I'll play it even now just to go talk to people, visit bars and watch the people  read the numerous books, and just walk around the world and see what happens.
 
 I knew by then that C++ was used to make games, and maybe it could let me make an android like Data and games like Ultima 7 one day, but I had no connection to programming anymore and the internet still wasn't a thing. That gave me a certain (okay, a lot of) veneration for C++ but I had nowhere to go from there. The Logo event in elementary was enough to have me sever any connection to this world and my main interests were elsewhere.
