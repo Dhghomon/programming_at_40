@@ -56,7 +56,7 @@ So the period from the 90s to the 2000s involved no programming whatsoever. Two 
 
 >Ultima VII was perhaps the first game I ever played where it seemed clear that the world did not exist merely to serve me as a game player.  The store owners did NOT keep their stores open 24 hours a day for my benefit.  If they were at dinner or asleep, I was out of luck. If I invaded someone's house, they yelled at me.  If I broke all their jars and looted the (mostly useless) stuff inside of them, the jars did not respawn when I left the house and came back in - they were broken for the rest of the game.  It felt real in a strange way.  Goofy as it may sound, it's like there was a world I was visiting. 
 
-![Ultima 7](Ultima_7.jpg)
+![Ultima 7](Ultima_7.jpg#thumbnail)
 
 I had and still do have the same feel when I play Ultima 7: the world is so packed with detail that I'll play it even now just to go talk to people, visit bars and watch the people read the numerous books, and just walk around the world and see what happens.
 
@@ -92,7 +92,7 @@ That was when I gave Rust a try for the first time. I had read a bit about it an
 
 I started with Rust on [learn x in y minutes](https://learnxinyminutes.com/docs/rust/) and the [Rust playground](https://play.rust-lang.org/). Curly braces to capture variables to print was the same as Python, but a lot of it looked like the C# that I had tried out a bit before. As I started to learn it I checked to see what you could do with this language, and the answer was invariably *pretty much anything*. So I could make something like Ultima 7, or anything I wanted. But what was even more interesting was how the detail and the low-levelness of the language did nothing to turn me off: I found myself drawn in even more. It's probably the time spent growing up in the 80s that has something to do with it as I felt a lot of nostalgia as I got more and more into the language. Everything I wrote was turned straight into a binary and I could see the computer's internals again. Tons of Rust discussions were about how to optimize code, and I found this fascinating. But at the same time this language was high-level and safe enough that I didn't need to worry about shooting my foot off, so to speak. It felt like a language that, if I devoted myself fully to it, could make almost anything possible (at least as far as a single language can do this) - and that's why the wanderlust completely disappeared.
 
-Who knew that this was what I actually wanted!
+Who knew that this sort of code would do the trick!
 
 ![100](Rust_love.png#thumbnail)
 
