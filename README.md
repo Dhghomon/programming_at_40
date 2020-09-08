@@ -39,6 +39,7 @@ And then for extra fanciness you can make shapes like the one below where you te
 
 !["Programming" in the 80s](Logo.png#thumbnail)
 
+<sub>*Image by @susam under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*</sub>
 
 Now the funny thing about this Logo experience is that I had almost completely forgotten it until I saw [this video by Bryan Cantrill](https://youtu.be/LjFM8vw3pbU?t=246) who is about my age and also had an early childhood experience with it. For him it was the same: he remembered feeling complete apathy about the whole thing and trying to make this turtle draw. Fortunately for him, he ended up encountering C and getting really drawn into programming. I didn't, but it was my own doing. Here's how it went with me:
 
