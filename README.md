@@ -6,6 +6,8 @@ Programming for me started back in the 1980s with our first computer. It was an 
 
 ![](Coleco_Adam_(adjusted_version).jpg#thumbnail)
 
+<sub>*Image by [Andrew Lih](https://en.wikipedia.org/wiki/Coleco_Adam#/media/File:Coleco_Adam_(adjusted_version).jpg) under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*</sub>
+
 It was a sort of hybrid of personal computer, COLECOVISION gaming system, and a typewriter. The computer itself is as you can see in the image, with two tape drives in place of a disk drive or cartridge, an actual TV instead of a monitor, and an interesting printer that had a switch on it that let you turn it into a full-blown typewriter. A lot of other ADAM computer users had actual disk drives but we didn't, and the tapes took forever to load. They would make this sound for about a minute or two: rrr rrr rrr REEE, rrr rrr rrr REEE, rrr rrr rrr REE, rrr rrr rrr (repeat). rrr is the slow moving forward sound while REEE was a quick rewind, so it must have been reading forward while then needing to move back to the next block that was located behind it. (Feel free to tell me more [on Twitter](https://twitter.com/mithridates) or [on Reddit](https://old.reddit.com/user/Dhghomon/) if you know more about how these drives worked - I'm still curious.)
 
 I remember my dad doing a lot of tape recording in the basement when we first got it, but wasn't sure why it resulted in getting so many games out of it. (My favourite was called [Gateway to Apshai](https://en.wikipedia.org/wiki/Gateway_to_Apshai), a sort of Roguelike game. I asked him about it a few months ago, and it turned out that he used [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language)) to make it happen. Here's what he wrote:
